@@ -1,2 +1,3 @@
 hello
 new addition
+new branch 'bug'
